@@ -15,8 +15,10 @@ import (
 )
 
 func main() {
+	fmt.Println("main task start running")
 	path := flag.String("c", "/etc/conf", "配置文件夹路径")
 	flag.Parse()
+	fmt.Println(*path)
 
 	token.InitConfig(*path+"/jwt.json", "jwt-key")
 	//read config
