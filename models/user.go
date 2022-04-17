@@ -207,8 +207,8 @@ func createAdminUser() error {
 		user := User{
 			UserID:   xid.New().String(),
 			Name:     "管理员",
-			Tel:      "11223344556",
-			Password: "11223344556",
+			Tel:      "17671671132",
+			Password: "17671671132",
 			Position: "管理员",
 		}
 

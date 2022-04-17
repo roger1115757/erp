@@ -1,8 +1,8 @@
 {
     "mysql": {
-        "name": "jkys",
-        "password": "jkys@123",
+        "name": "root",
+        "password": "Cjn157157",
         "DBname": "erp",
-        "addr": "127.0.0.1:3306"
+        "addr": "bj-cynosdbmysql-grp-hbssxza6.sql.tencentcdb.com:20627"
     }
 }
