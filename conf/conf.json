@@ -1,0 +1,8 @@
+{
+    "mysql": {
+        "name": "jkys",
+        "password": "jkys@123",
+        "DBname": "erp",
+        "addr": "127.0.0.1:3306"
+    }
+}

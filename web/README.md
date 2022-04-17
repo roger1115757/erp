@@ -1,14 +1,15 @@
-# mogutouERP 蘑菇头进存销管理系统
-
-[![Go Report Card](https://goreportcard.com/badge/github.com/Allenxuxu/mogutouERP)](https://goreportcard.com/report/github.com/Allenxuxu/mogutouERP)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c80672f0e8745b995a5b2e609d21ade)](https://app.codacy.com/app/Allenxuxu/mogutouERP?utm_source=github.com&utm_medium=referral&utm_content=Allenxuxu/mogutouERP&utm_campaign=Badge_Grade_Dashboard)
-<a title="code size in bytes" target="_blank" href="https://github.com/Allenxuxu/mogutouERP"><img src="https://img.shields.io/github/languages/code-size/Allenxuxu/mogutouERP.svg?style=flat"></a>
+# mogutouERP 蘑菇头进存销管理系统 
 
 mogutouERP 是一个前后端分离的微型进存销系统，采用 Gin + Vue 开发。
 
-- 后端仓库(本仓库) https://github.com/Allenxuxu/mogutouERP
-- 前端仓库 https://github.com/Allenxuxu/mogutouERP-vue
+- 后端仓库 https://github.com/Allenxuxu/mogutouERP
+- 前端仓库(本仓库) https://github.com/Allenxuxu/mogutouERP-vue
 
+演示地址 http://demo.mogutou.xyz
+
+账号： 11223344556
+
+密码： mogutou
 
 ## 主要功能及效果图
 
@@ -20,11 +21,11 @@ mogutouERP 是一个前后端分离的微型进存销系统，采用 Gin + Vue �
 
 > 财务信息，添加员工，商品进价管理等操作只有管理员账号可以查看并操作
 
-![image](.screenshots/index.png)
-![image](.screenshots/stock.png)
-![image](.screenshots/order.png)
-![image](.screenshots/chart1.png)
-![image](.screenshots/chart2.png)
+![image](https://github.com/Allenxuxu/mogutouERP/raw/master/.screenshots/index.png)
+![image](https://github.com/Allenxuxu/mogutouERP/raw/master/.screenshots/stock.png)
+![image](https://github.com/Allenxuxu/mogutouERP/raw/master/.screenshots/order.png)
+![image](https://github.com/Allenxuxu/mogutouERP/raw/master/.screenshots/chart1.png)
+![image](https://github.com/Allenxuxu/mogutouERP/raw/master/.screenshots/chart2.png)
 
 ## 本地运行使用
 
